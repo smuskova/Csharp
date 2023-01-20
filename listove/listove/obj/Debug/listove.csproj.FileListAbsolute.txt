@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\C#\listove\listove\obj\Debug\listove.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\listove\listove\obj\Debug\List_Combo_Programa.Form1.resources
+C:\Users\User\Desktop\C#\listove\listove\obj\Debug\listove.Properties.Resources.resources
+C:\Users\User\Desktop\C#\listove\listove\obj\Debug\listove.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\listove\listove\obj\Debug\listove.csproj.CoreCompileInputs.cache

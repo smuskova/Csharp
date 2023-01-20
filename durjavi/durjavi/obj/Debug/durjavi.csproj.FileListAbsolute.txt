@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\durjavi\durjavi\bin\Debug\durjavi.exe.config
+C:\Users\User\Desktop\C#\durjavi\durjavi\bin\Debug\durjavi.exe
+C:\Users\User\Desktop\C#\durjavi\durjavi\bin\Debug\durjavi.pdb
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.Form1.resources
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.Properties.Resources.resources
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.exe
+C:\Users\User\Desktop\C#\durjavi\durjavi\obj\Debug\durjavi.pdb
